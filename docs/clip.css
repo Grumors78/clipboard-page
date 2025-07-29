@@ -237,9 +237,8 @@ width: 20%;
 .social-div svg{
     cursor: pointer;
 }
-.social-div svg:hover{
-    fill: f5f;
-    fill-rule: nonzero;
+.social-div svg path:hover{
+    fill: hsl(171, 66%, 44%);
     cursor: pointer;
 }
 
